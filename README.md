@@ -1,5 +1,5 @@
 # ac3020demo
-demo btl tro choi so 2 bởi kho fame cho mấy con cầu giấy và em tao.
+demo btl tro choi so 2 bởi kho fame 29P1 và em tao.
 <br>
 
 
