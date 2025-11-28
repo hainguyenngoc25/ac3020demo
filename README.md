@@ -1,8 +1,7 @@
 # ac3020demo
-demo btl tro choi so 2 bởi kho fame 29P1 và em tao.
-<br>
-FLOP QUÁ THÌ NHẮC TÊN BỌN ANH VÀO !!!
-<br>
+THÂN GỬI:
+<BR>
 
-https://github.com/user-attachments/assets/a657b398-6a5f-4fdc-b02f-b90862839f19
+
+https://github.com/user-attachments/assets/11bf3f27-b4c5-4e4d-b1c4-990d7fcd393a
 
