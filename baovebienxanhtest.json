@@ -3129,6 +3129,11 @@
           "name": "time",
           "type": "number",
           "value": 60
+        },
+        {
+          "name": "Life",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -5995,6 +6000,11 @@
           "name": "time",
           "type": "number",
           "value": 60
+        },
+        {
+          "name": "Life",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
