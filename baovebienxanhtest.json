@@ -621,7 +621,7 @@
       {
         "file": "assets/Rock with grass (1).png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Rock with grass (1).png\",\"extension\":\".png\"}",
         "name": "Rock with grass (1).png",
         "smoothed": true,
         "userAdded": false,
@@ -811,6 +811,142 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Mask.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mask",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Mask2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mask2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Candy.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Candy",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Candy2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Candy2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Mask3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mask3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Mask4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mask4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Mask5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mask5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\NewSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\NewSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite29.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite69",
         "smoothed": true,
         "userAdded": false
       }
@@ -10362,17 +10498,6 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "CHƠI_LẠI",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
         }
       ],
       "objectsFolderStructure": {
@@ -10410,9 +10535,6 @@
           },
           {
             "objectName": "GHI_CHÚ"
-          },
-          {
-            "objectName": "CHƠI_LẠI"
           }
         ]
       },
@@ -12414,7 +12536,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.21607397323875505,
+        "zoomFactor": 0.11506529727511386,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -12962,6 +13084,438 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldPhone",
+          "persistentUuid": "194f27fe-a682-496b-bced-30031468e3cc",
+          "width": 0,
+          "x": -736,
+          "y": 512,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldCamera",
+          "persistentUuid": "b147a6c1-cbed-430a-9f47-4360cc5060a8",
+          "width": 0,
+          "x": -384,
+          "y": 928,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldCamera",
+          "persistentUuid": "1018d9a0-c446-4402-9d6b-fe56e049cab6",
+          "width": 0,
+          "x": 1152,
+          "y": 1344,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldCamera",
+          "persistentUuid": "fb049d8f-ed1f-4d63-9eca-1758aea1f238",
+          "width": 0,
+          "x": 1792,
+          "y": 1056,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldCamera",
+          "persistentUuid": "98aa485a-700a-4d3e-aaa2-15486afdf850",
+          "width": 0,
+          "x": 1920,
+          "y": 256,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldXoong",
+          "persistentUuid": "de9ca89c-1bde-4d64-be64-840e9352508e",
+          "width": 0,
+          "x": 2144,
+          "y": 1088,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldXoong",
+          "persistentUuid": "d6610f8b-03eb-483e-b6e6-d0d55a926ccd",
+          "width": 0,
+          "x": 3232,
+          "y": 1120,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldXoong",
+          "persistentUuid": "5f878373-b64c-42ab-b2b1-cb1868e67028",
+          "width": 0,
+          "x": 4160,
+          "y": 1184,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldXoong",
+          "persistentUuid": "0ee4fe29-beaa-412e-9e41-859edeb67439",
+          "width": 0,
+          "x": 4768,
+          "y": 800,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldPhone",
+          "persistentUuid": "21957af2-8470-4743-a75c-f548c48fde00",
+          "width": 0,
+          "x": 2624,
+          "y": 640,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldPhone",
+          "persistentUuid": "237e8d7b-7495-4a5f-8798-c07f891751ac",
+          "width": 0,
+          "x": 4256,
+          "y": 864,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bottle",
+          "persistentUuid": "5744c661-bb34-4d03-b167-25c5e45074f6",
+          "width": 0,
+          "x": 2624,
+          "y": 1312,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bottle",
+          "persistentUuid": "9341b312-bb06-4a22-8567-af4a78d26cae",
+          "width": 0,
+          "x": 1440,
+          "y": 864,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bottle",
+          "persistentUuid": "bc1ae54b-1db4-4bf1-8a38-ffe8fb1a9aab",
+          "width": 0,
+          "x": 320,
+          "y": 1312,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bottle",
+          "persistentUuid": "a36a10fd-25ce-499b-9355-3fbef2e1e798",
+          "width": 0,
+          "x": 832,
+          "y": 1376,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bottle",
+          "persistentUuid": "b1fd4b6d-90e3-45d2-80f0-de7ab509236a",
+          "width": 0,
+          "x": 1632,
+          "y": 1312,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bottle",
+          "persistentUuid": "f5a43869-8a8c-4165-a65d-c6e0f17ee0c6",
+          "width": 0,
+          "x": 3808,
+          "y": 1376,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bottle",
+          "persistentUuid": "c72b2366-bd3f-4d34-a548-54a78ffdb624",
+          "width": 0,
+          "x": 4608,
+          "y": 224,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldPhone",
+          "persistentUuid": "21bc305f-1769-48dd-ae49-37caf2808b5e",
+          "width": 0,
+          "x": 2240,
+          "y": 768,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plastic",
+          "persistentUuid": "b54e157d-cbc2-4721-b171-f1939d4d7917",
+          "width": 0,
+          "x": -864,
+          "y": 1184,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plastic",
+          "persistentUuid": "197defb6-1f3d-4d41-97ab-f2785f480cfe",
+          "width": 0,
+          "x": 0,
+          "y": 1248,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "plastic",
+          "persistentUuid": "d36a1658-39ef-4947-8993-61b04ff44663",
+          "width": 0,
+          "x": -448,
+          "y": 1344,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Rock",
+          "persistentUuid": "3f290c5e-95cd-4ac2-8c28-e26f3c567360",
+          "width": 0,
+          "x": 3296,
+          "y": 640,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Rock",
+          "persistentUuid": "4d44236a-3ad3-4199-a75c-bc50c7612f9a",
+          "width": 0,
+          "x": 1408,
+          "y": 352,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LifeFill",
+          "persistentUuid": "66c60ec7-1516-4ea7-a3dd-f996486089aa",
+          "width": 0,
+          "x": -1184,
+          "y": 576,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LifeFill",
+          "persistentUuid": "f10d1cb9-5940-4d4b-8088-5039eaacf508",
+          "width": 0,
+          "x": 1760,
+          "y": 416,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LifeFill",
+          "persistentUuid": "866c22b5-38c9-48ae-b40d-87b10d1ef0c8",
+          "width": 0,
+          "x": 3680,
+          "y": 384,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -13135,7 +13689,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Nilon",
+          "name": "OldCamera",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -13160,7 +13714,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite36",
+                      "image": "NewSprite64",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13177,19 +13731,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 22
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 128,
+                            "y": 22
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 128,
+                            "y": 102
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 102
                           }
                         ]
                       ]
@@ -13203,7 +13757,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Balo",
+          "name": "Bottle",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -13228,7 +13782,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite39",
+                      "image": "NewSprite66",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13244,20 +13798,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 12,
                             "y": 0
                           },
                           {
-                            "x": 128,
+                            "x": 85,
                             "y": 0
                           },
                           {
-                            "x": 128,
-                            "y": 128
+                            "x": 85,
+                            "y": 96
                           },
                           {
-                            "x": 0,
-                            "y": 128
+                            "x": 12,
+                            "y": 96
                           }
                         ]
                       ]
@@ -13339,7 +13893,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Mask",
+          "name": "OldPhone",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -13354,16 +13908,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Mask",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\NewSprite20.png",
+                      "image": "Mask2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13379,20 +13934,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 19
+                            "x": 18,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 19
+                            "x": 82,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 45
+                            "x": 82,
+                            "y": 96
                           },
                           {
-                            "x": 0,
-                            "y": 45
+                            "x": 18,
+                            "y": 96
                           }
                         ]
                       ]
@@ -13406,7 +13961,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Candy",
+          "name": "OldXoong",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -13421,16 +13976,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Candy",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\NewSprite12.png",
+                      "image": "Candy2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13446,20 +14002,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 8,
+                            "y": 40
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 256,
+                            "y": 40
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 256,
+                            "y": 256
                           },
                           {
-                            "x": 0,
-                            "y": 64
+                            "x": 8,
+                            "y": 256
                           }
                         ]
                       ]
@@ -13634,14 +14190,64 @@
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "CHƠI_LẠI",
+          "assetStoreId": "1ddef77f04f5b46f631c1d9c05e38d2b857bcebb98ff5012f8e26d0713d561dc",
+          "name": "Rock",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "animations": []
+          "animations": [
+            {
+              "name": "Rock with grass (1)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Rock with grass (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 30
+                          },
+                          {
+                            "x": 100,
+                            "y": 30
+                          },
+                          {
+                            "x": 100,
+                            "y": 98
+                          },
+                          {
+                            "x": 32,
+                            "y": 98
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -13657,19 +14263,22 @@
             "objectName": "DeleteZone"
           },
           {
-            "objectName": "Nilon"
+            "objectName": "OldCamera"
           },
           {
             "objectName": "plastic"
           },
           {
-            "objectName": "Mask"
+            "objectName": "Rock"
           },
           {
-            "objectName": "Candy"
+            "objectName": "OldPhone"
           },
           {
-            "objectName": "Balo"
+            "objectName": "OldXoong"
+          },
+          {
+            "objectName": "Bottle"
           },
           {
             "objectName": "BG_TEST"
@@ -13685,9 +14294,6 @@
           },
           {
             "objectName": "Fish"
-          },
-          {
-            "objectName": "CHƠI_LẠI"
           }
         ]
       },
@@ -13927,14 +14533,7 @@
                     "=",
                     "\"Time: 90\""
                   ]
-                }
-              ]
-            },
-            {
-              "disabled": true,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
+                },
                 {
                   "type": {
                     "value": "Cache"
@@ -13950,7 +14549,14 @@
                   "parameters": [
                     "OceanBGL"
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
                 {
                   "type": {
                     "value": "SetNumberVariable"
@@ -14239,6 +14845,115 @@
                   "parameters": [
                     "Fish",
                     ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Rock",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Tail",
+                    "Rock",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "KeoDai",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "quay",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "KeoDai",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Life",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "KeoDai",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "quay",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetY"
+                  },
+                  "parameters": [
+                    "Hook",
+                    "Scale",
+                    "+",
+                    "- 6 * TimeDelta()\n"
                   ]
                 }
               ]
@@ -14554,7 +15269,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Mask",
+              "name": "OldPhone",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -14567,7 +15282,7 @@
                       },
                       "parameters": [
                         "Tail",
-                        "Mask",
+                        "OldPhone",
                         "",
                         "",
                         ""
@@ -14606,7 +15321,7 @@
                         "value": "Sticker::Sticker::Stick"
                       },
                       "parameters": [
-                        "Mask",
+                        "OldPhone",
                         "Sticker",
                         "Tail",
                         ""
@@ -14647,7 +15362,7 @@
                         "Hook",
                         "Scale",
                         "+",
-                        "- 5 * TimeDelta()\n"
+                        "- 6 * TimeDelta()\n"
                       ]
                     }
                   ]
@@ -14673,7 +15388,7 @@
                         "value": "Sticker::Sticker::Unstick"
                       },
                       "parameters": [
-                        "Mask",
+                        "OldPhone",
                         "Sticker",
                         "Đuôi_móc"
                       ]
@@ -14688,7 +15403,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Mask",
+                        "OldPhone",
                         "DeleteZone",
                         "",
                         "",
@@ -14702,7 +15417,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "Mask",
+                        "OldPhone",
                         ""
                       ]
                     },
@@ -14737,7 +15452,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Nilon",
+              "name": "OldCamera",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -14750,7 +15465,7 @@
                       },
                       "parameters": [
                         "Tail",
-                        "Nilon",
+                        "OldCamera",
                         "",
                         "",
                         ""
@@ -14789,7 +15504,7 @@
                         "value": "Sticker::Sticker::Stick"
                       },
                       "parameters": [
-                        "Nilon",
+                        "OldCamera",
                         "Sticker",
                         "Tail",
                         ""
@@ -14830,7 +15545,7 @@
                         "Hook",
                         "Scale",
                         "+",
-                        "- 1 * TimeDelta()\n"
+                        "- 6 * TimeDelta()\n"
                       ]
                     }
                   ]
@@ -14856,7 +15571,7 @@
                         "value": "Sticker::Sticker::Unstick"
                       },
                       "parameters": [
-                        "Nilon",
+                        "OldCamera",
                         "Sticker",
                         "Đuôi_móc"
                       ]
@@ -14871,7 +15586,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Nilon",
+                        "OldCamera",
                         "DeleteZone",
                         "",
                         "",
@@ -14885,7 +15600,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "Nilon",
+                        "OldCamera",
                         ""
                       ]
                     },
@@ -14896,7 +15611,7 @@
                       "parameters": [
                         "score",
                         "+",
-                        "1"
+                        "4"
                       ]
                     },
                     {
@@ -14920,7 +15635,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Balo",
+              "name": "Bottle",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -14933,7 +15648,7 @@
                       },
                       "parameters": [
                         "Tail",
-                        "Balo",
+                        "Bottle",
                         "",
                         "",
                         ""
@@ -14972,7 +15687,7 @@
                         "value": "Sticker::Sticker::Stick"
                       },
                       "parameters": [
-                        "Balo",
+                        "Bottle",
                         "Sticker",
                         "Tail",
                         ""
@@ -15039,7 +15754,7 @@
                         "value": "Sticker::Sticker::Unstick"
                       },
                       "parameters": [
-                        "Balo",
+                        "Bottle",
                         "Sticker",
                         "Đuôi_móc"
                       ]
@@ -15054,7 +15769,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Balo",
+                        "Bottle",
                         "DeleteZone",
                         "",
                         "",
@@ -15068,7 +15783,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "Balo",
+                        "Bottle",
                         ""
                       ]
                     },
@@ -15079,7 +15794,7 @@
                       "parameters": [
                         "score",
                         "+",
-                        "6"
+                        "5"
                       ]
                     },
                     {
@@ -15103,7 +15818,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Candy",
+              "name": "OldXoong",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -15116,7 +15831,7 @@
                       },
                       "parameters": [
                         "Tail",
-                        "Candy",
+                        "OldXoong",
                         "",
                         "",
                         ""
@@ -15155,7 +15870,7 @@
                         "value": "Sticker::Sticker::Stick"
                       },
                       "parameters": [
-                        "Candy",
+                        "OldXoong",
                         "Sticker",
                         "Tail",
                         ""
@@ -15196,7 +15911,7 @@
                         "Hook",
                         "Scale",
                         "+",
-                        "- 5 * TimeDelta()\n"
+                        "- 7 * TimeDelta()\n"
                       ]
                     }
                   ]
@@ -15222,7 +15937,7 @@
                         "value": "Sticker::Sticker::Unstick"
                       },
                       "parameters": [
-                        "Candy",
+                        "OldXoong",
                         "Sticker",
                         "Đuôi_móc"
                       ]
@@ -15237,7 +15952,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Candy",
+                        "OldXoong",
                         "DeleteZone",
                         "",
                         "",
@@ -15251,7 +15966,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "Candy",
+                        "OldXoong",
                         ""
                       ]
                     },
@@ -15262,7 +15977,7 @@
                       "parameters": [
                         "score",
                         "+",
-                        "2"
+                        "3"
                       ]
                     },
                     {
@@ -16207,7 +16922,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.1770859527754393,
+        "zoomFactor": 0.12295621310785464,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -16644,8 +17359,8 @@
           "name": "LifeFill",
           "persistentUuid": "0659e4d8-b527-4eda-a11d-3330fc5bf769",
           "width": 0,
-          "x": 2539,
-          "y": 243,
+          "x": 3712,
+          "y": 416,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -16660,8 +17375,8 @@
           "name": "LifeFill",
           "persistentUuid": "ca26e652-95fb-4d1c-bdf9-aaee92607e00",
           "width": 0,
-          "x": 2944,
-          "y": 704,
+          "x": 1984,
+          "y": 416,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -16676,8 +17391,8 @@
           "name": "LifeFill",
           "persistentUuid": "daae198a-f60f-4a94-afac-60cd648e4cc9",
           "width": 0,
-          "x": 3200,
-          "y": 416,
+          "x": -736,
+          "y": 403,
           "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
@@ -16695,6 +17410,246 @@
           "x": 1248,
           "y": -960,
           "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldTivi",
+          "persistentUuid": "dd0b7cb6-0bd0-4f7b-a419-f6acadc28605",
+          "width": 0,
+          "x": -1088,
+          "y": 992,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DaoDia",
+          "persistentUuid": "7c8ae8b6-ee98-44bb-b76e-e68954a611c5",
+          "width": 0,
+          "x": 1184,
+          "y": 1184,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Michelin",
+          "persistentUuid": "d1f44be1-c2fe-4bc4-aea7-1a2a40744524",
+          "width": 0,
+          "x": 1760,
+          "y": 1088,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Michelin",
+          "persistentUuid": "354bd5b8-ed3d-40fe-9002-958c808aaff8",
+          "width": 0,
+          "x": -224,
+          "y": 1216,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Michelin",
+          "persistentUuid": "5ed50cd8-c9e5-4a7d-b889-7e6582db0498",
+          "width": 0,
+          "x": 3232,
+          "y": 1024,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Michelin",
+          "persistentUuid": "53886d6b-d3e8-4326-8b6a-5ac2f476b4e5",
+          "width": 0,
+          "x": 4704,
+          "y": 1088,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Can",
+          "persistentUuid": "8b4391ea-d74d-47dd-9f85-15c295b99f54",
+          "width": 0,
+          "x": 2432,
+          "y": 896,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Can",
+          "persistentUuid": "a3595778-e151-4271-bc26-d06d7402a425",
+          "width": 0,
+          "x": -224,
+          "y": 928,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Can",
+          "persistentUuid": "e1615684-8294-49cd-a9f2-eb6398f816c7",
+          "width": 0,
+          "x": 4128,
+          "y": 864,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldTivi",
+          "persistentUuid": "abe4f0e3-e0f8-464e-9b66-1f4bb4077f11",
+          "width": 0,
+          "x": 2592,
+          "y": 1184,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OldTivi",
+          "persistentUuid": "eada6cfa-9ebe-43a0-b5e8-6fe43b3c29df",
+          "width": 0,
+          "x": 4000,
+          "y": 1152,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Balo",
+          "persistentUuid": "d643ee2c-7627-49da-b56b-d05bd0526728",
+          "width": 0,
+          "x": 4928,
+          "y": 384,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Balo",
+          "persistentUuid": "ae910992-38d3-4c4d-89c6-6f7216c45864",
+          "width": 0,
+          "x": -512,
+          "y": 896,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DaoDia",
+          "persistentUuid": "eaf0dc9b-759b-41e1-af4b-e8afe2ea6e99",
+          "width": 0,
+          "x": 1440,
+          "y": 384,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Can",
+          "persistentUuid": "1fad5da7-a128-469e-883b-99037e4c6035",
+          "width": 0,
+          "x": 832,
+          "y": 352,
+          "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16871,7 +17826,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Nilon",
+          "name": "Michelin",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -16896,7 +17851,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite36",
+                      "image": "NewSprite68",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16916,16 +17871,16 @@
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 256,
                             "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 256,
+                            "y": 256
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 256
                           }
                         ]
                       ]
@@ -17007,7 +17962,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "plastic",
+          "name": "Can",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -17032,7 +17987,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite40",
+                      "image": "NewSprite69",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17048,20 +18003,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 24
+                            "x": 25,
+                            "y": 0
                           },
                           {
-                            "x": 128,
-                            "y": 24
+                            "x": 73,
+                            "y": 0
                           },
                           {
-                            "x": 128,
-                            "y": 94
+                            "x": 73,
+                            "y": 96
                           },
                           {
-                            "x": 0,
-                            "y": 94
+                            "x": 25,
+                            "y": 96
                           }
                         ]
                       ]
@@ -17075,7 +18030,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Mask",
+          "name": "OldTivi",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -17090,83 +18045,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Mask",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\NewSprite20.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 19
-                          },
-                          {
-                            "x": 64,
-                            "y": 19
-                          },
-                          {
-                            "x": 64,
-                            "y": 45
-                          },
-                          {
-                            "x": 0,
-                            "y": 45
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Candy",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Sticker",
-              "type": "Sticker::Sticker",
-              "OnlyFollowPosition": true,
-              "IsDestroyedWithParent": false
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\NewSprite12.png",
+                      "image": "Mask5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17186,16 +18075,84 @@
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 256,
                             "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 256,
+                            "y": 256
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 256
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "DaoDia",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": true,
+              "IsDestroyedWithParent": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "assets\\NewSprite12",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\NewSprite13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 96,
+                            "y": 0
+                          },
+                          {
+                            "x": 96,
+                            "y": 96
+                          },
+                          {
+                            "x": 0,
+                            "y": 96
                           }
                         ]
                       ]
@@ -17443,16 +18400,16 @@
             "objectName": "DeleteZone"
           },
           {
-            "objectName": "Nilon"
+            "objectName": "Michelin"
           },
           {
-            "objectName": "plastic"
+            "objectName": "Can"
           },
           {
-            "objectName": "Mask"
+            "objectName": "OldTivi"
           },
           {
-            "objectName": "Candy"
+            "objectName": "DaoDia"
           },
           {
             "objectName": "Balo"
@@ -17713,14 +18670,7 @@
                     "=",
                     "\"Time: 90\""
                   ]
-                }
-              ]
-            },
-            {
-              "disabled": true,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
+                },
                 {
                   "type": {
                     "value": "Cache"
@@ -17736,7 +18686,14 @@
                   "parameters": [
                     "OceanBGL"
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
                 {
                   "type": {
                     "value": "SetNumberVariable"
@@ -18509,7 +19466,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Mask",
+              "name": "Old Tivi",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -18522,7 +19479,7 @@
                       },
                       "parameters": [
                         "Tail",
-                        "Mask",
+                        "OldTivi",
                         "",
                         "",
                         ""
@@ -18561,7 +19518,7 @@
                         "value": "Sticker::Sticker::Stick"
                       },
                       "parameters": [
-                        "Mask",
+                        "OldTivi",
                         "Sticker",
                         "Tail",
                         ""
@@ -18580,189 +19537,6 @@
                         "KeoDai",
                         "=",
                         "3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "quay",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ScalableCapability::ScalableBehavior::SetY"
-                      },
-                      "parameters": [
-                        "Hook",
-                        "Scale",
-                        "+",
-                        "- 5 * TimeDelta()\n"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ScalableCapability::ScalableBehavior::Y"
-                      },
-                      "parameters": [
-                        "Hook",
-                        "Scale",
-                        "<=",
-                        "ScaleGocMoc"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Sticker::Sticker::Unstick"
-                      },
-                      "parameters": [
-                        "Mask",
-                        "Sticker",
-                        "Đuôi_móc"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Mask",
-                        "DeleteZone",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Mask",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "score",
-                        "+",
-                        "3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "Score",
-                        "Text",
-                        "=",
-                        "\"Score: \" + score"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Nilon",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Tail",
-                        "Nilon",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "KeoDai",
-                        "=",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "KeoDai",
-                        "=",
-                        "4"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Sticker::Sticker::Stick"
-                      },
-                      "parameters": [
-                        "Nilon",
-                        "Sticker",
-                        "Tail",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "KeoDai",
-                        "=",
-                        "4"
                       ]
                     },
                     {
@@ -18811,7 +19585,7 @@
                         "value": "Sticker::Sticker::Unstick"
                       },
                       "parameters": [
-                        "Nilon",
+                        "OldTivi",
                         "Sticker",
                         "Đuôi_móc"
                       ]
@@ -18826,7 +19600,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Nilon",
+                        "OldTivi",
                         "DeleteZone",
                         "",
                         "",
@@ -18840,7 +19614,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "Nilon",
+                        "OldTivi",
                         ""
                       ]
                     },
@@ -18851,7 +19625,190 @@
                       "parameters": [
                         "score",
                         "+",
+                        "8"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Score",
+                        "Text",
+                        "=",
+                        "\"Score: \" + score"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Michelin",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Tail",
+                        "Michelin",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "KeoDai",
+                        "=",
                         "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "KeoDai",
+                        "=",
+                        "4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Sticker::Sticker::Stick"
+                      },
+                      "parameters": [
+                        "Michelin",
+                        "Sticker",
+                        "Tail",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "KeoDai",
+                        "=",
+                        "4"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "quay",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetY"
+                      },
+                      "parameters": [
+                        "Hook",
+                        "Scale",
+                        "+",
+                        "- 0.5 * TimeDelta()\n"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::Y"
+                      },
+                      "parameters": [
+                        "Hook",
+                        "Scale",
+                        "<=",
+                        "ScaleGocMoc"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Sticker::Sticker::Unstick"
+                      },
+                      "parameters": [
+                        "Michelin",
+                        "Sticker",
+                        "Đuôi_móc"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Michelin",
+                        "DeleteZone",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Michelin",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "score",
+                        "+",
+                        "10"
                       ]
                     },
                     {
@@ -19058,7 +20015,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Candy",
+              "name": "Dao dĩa",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -19071,7 +20028,7 @@
                       },
                       "parameters": [
                         "Tail",
-                        "Candy",
+                        "DaoDia",
                         "",
                         "",
                         ""
@@ -19110,7 +20067,7 @@
                         "value": "Sticker::Sticker::Stick"
                       },
                       "parameters": [
-                        "Candy",
+                        "DaoDia",
                         "Sticker",
                         "Tail",
                         ""
@@ -19151,7 +20108,7 @@
                         "Hook",
                         "Scale",
                         "+",
-                        "- 5 * TimeDelta()\n"
+                        "- 3 * TimeDelta()\n"
                       ]
                     }
                   ]
@@ -19177,7 +20134,7 @@
                         "value": "Sticker::Sticker::Unstick"
                       },
                       "parameters": [
-                        "Candy",
+                        "DaoDia",
                         "Sticker",
                         "Đuôi_móc"
                       ]
@@ -19192,7 +20149,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Candy",
+                        "DaoDia",
                         "DeleteZone",
                         "",
                         "",
@@ -19206,7 +20163,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "Candy",
+                        "DaoDia",
                         ""
                       ]
                     },
@@ -19217,7 +20174,7 @@
                       "parameters": [
                         "score",
                         "+",
-                        "2"
+                        "6"
                       ]
                     },
                     {
@@ -19241,7 +20198,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Ống nhựa",
+              "name": "Can",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -19254,7 +20211,7 @@
                       },
                       "parameters": [
                         "Tail",
-                        "plastic",
+                        "Can",
                         "",
                         "",
                         ""
@@ -19293,7 +20250,7 @@
                         "value": "Sticker::Sticker::Stick"
                       },
                       "parameters": [
-                        "plastic",
+                        "Can",
                         "Sticker",
                         "Tail",
                         ""
@@ -19334,7 +20291,7 @@
                         "Hook",
                         "Scale",
                         "+",
-                        "- 4 * TimeDelta()\n"
+                        "- 2 * TimeDelta()\n"
                       ]
                     }
                   ]
@@ -19360,7 +20317,7 @@
                         "value": "Sticker::Sticker::Unstick"
                       },
                       "parameters": [
-                        "plastic",
+                        "Can",
                         "Sticker",
                         "Đuôi_móc"
                       ]
@@ -19375,7 +20332,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "plastic",
+                        "Can",
                         "DeleteZone",
                         "",
                         "",
@@ -19389,7 +20346,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "plastic",
+                        "Can",
                         ""
                       ]
                     },
@@ -19400,7 +20357,7 @@
                       "parameters": [
                         "score",
                         "+",
-                        "5"
+                        "4"
                       ]
                     },
                     {
