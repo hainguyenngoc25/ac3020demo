@@ -3545,8 +3545,8 @@
           "name": "RedZone",
           "persistentUuid": "fafd91ca-bbbf-4cd7-a778-8fc35148f608",
           "width": 32,
-          "x": 1863,
-          "y": 90,
+          "x": 1560,
+          "y": 48,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -3562,8 +3562,8 @@
           "name": "RedZone",
           "persistentUuid": "4e48498e-1717-4050-a259-74c23ea07a9d",
           "width": 32,
-          "x": -635,
-          "y": 99,
+          "x": -380,
+          "y": 75,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -4103,6 +4103,13 @@
             "includeConfig": 0
           },
           "target": "Info"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "HighScore"
         },
         {
           "colorB": 228,
@@ -7091,6 +7098,13 @@
             "includeConfig": 0
           },
           "target": "Info"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "HighScore"
         },
         {
           "disabled": true,
@@ -21240,6 +21254,26 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "goal",
+                "=",
+                "40"
+              ]
             }
           ]
         },
@@ -25030,97 +25064,6 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "High Score"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "score",
-                ">",
-                "highScore"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "EcrireFichierExp"
-              },
-              "parameters": [
-                "\"Storage\"",
-                "\"HighScore\"",
-                "score"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "GroupExists"
-              },
-              "parameters": [
-                "\"Storage\"",
-                "\"HighScore\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ReadNumberFromStorage"
-              },
-              "parameters": [
-                "\"Storage\"",
-                "\"HighScore\"",
-                "",
-                "highScore"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "High_Score",
-                "Text",
-                "=",
-                "\"High Score: \" + highScore"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
           "comment": "Đồng hồ đếm ngược, thay đổi text hiển thị Time"
         },
         {
@@ -26025,6 +25968,136 @@
                   "parameters": [
                     "LifeFill",
                     ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Level 3",
+      "name": "HighScore",
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "High Score",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "score",
+                    ">",
+                    "highScore"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "score",
+                        "<",
+                        "goal"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Life",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EcrireFichierExp"
+                  },
+                  "parameters": [
+                    "\"Storage\"",
+                    "\"HighScore\"",
+                    "score"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"Storage\"",
+                    "\"HighScore\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ReadNumberFromStorage"
+                  },
+                  "parameters": [
+                    "\"Storage\"",
+                    "\"HighScore\"",
+                    "",
+                    "highScore"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "High_Score",
+                    "Text",
+                    "=",
+                    "\"High Score: \" + highScore"
                   ]
                 }
               ]
