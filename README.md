@@ -6,7 +6,3 @@ DEAR VION:
 https://github.com/user-attachments/assets/11bf3f27-b4c5-4e4d-b1c4-990d7fcd393a
 
 <br>
-
-# Trải nghiệm trò chơi tại đây:
-PROTECT THE OCEAN (LonTon Version): https://nguyenngochai.itch.io/ba0vebi3nblue
-
