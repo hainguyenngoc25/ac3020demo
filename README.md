@@ -1,4 +1,3 @@
-# ac3020demo
 DEAR VION:
 <BR>
 
